@@ -1,7 +1,4 @@
-# Execute4.0
-Sure! Here's a clean, **attractive README** for your **Subscription Manager App** project, with emojis and markdown styling to catch attention and impress anyone who checks it out 👇
 
----
 
 # 📅💸 Subscription Manager App
 
@@ -63,7 +60,6 @@ Manage all your subscriptions in one place – track costs, get alerts, and take
 | Spotify    | 119   | 2025-03-25        |
 | Prime      | 149   | 2025-03-30        |
 
----
 
 ## 💡 Future Ideas
 
@@ -72,13 +68,8 @@ Manage all your subscriptions in one place – track costs, get alerts, and take
 - 📈 Insights on Yearly Spend  
 - 💳 Payment Integration for Auto-Pay Tracking
 
----
 
 ## 🙌 Contribute or Connect
 
 Feel free to contribute or fork the project!  
 Made with ❤️ for financial wellness.
-
----
-
-Let me know if you want to add **GitHub badges**, your **GitHub profile**, or deploy it online (e.g., Streamlit Cloud link)—I can add that too!
